@@ -1,6 +1,6 @@
 
 	
-[![MasterHead](http:https://miro.medium.com/v2/resize:fit:1400/format:webp/1*14v1pUZwr516557dpS-oYw.jpeg)
+[![MasterHead](https://as2.ftcdn.net/v2/jpg/03/38/02/25/1000_F_338022555_SWns8he64DZNfPqYI3rD3VCbhoJCMp5e.jpg)
 <h1 align="center">Hi 👋, I'm Anıl</h1>
 <h3 align="center">Someone involved in Data Science and Machine Learning</h3>
 
