@@ -15,7 +15,7 @@
 <a href="https://linkedin.com/in/anilturkmenn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anilturkmenn" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/anıl-türkmen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="anıl-türkmen" height="30" width="40" /></a>
 <a href="https://kaggle.com/anltrkmen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="anltrkmen" height="30" width="40" /></a>
-<a href="https://medium.com/@mehmetanilturkmen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mehmetanilturkmen" height="30" width="40" /></a>
+<a href="https://medium.com/@anilturkmen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@anilturkmen" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
