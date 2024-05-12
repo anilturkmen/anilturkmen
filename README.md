@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Anıl</h1>
 <h3 align="center">Someone involved in Data Science and Machine Learning</h3>
+<p align="center">
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=The+Artifical+Intelligence+🤖;Data+Science+🚀"></a></p>
-<p align="center"><img src="https://profile-counter.glitch.me/{anilturkmen}/count.svg"/></p>
 
+
+<p align="center"><img src="https://profile-counter.glitch.me/{anilturkmen}/count.svg"/></p>
 <h4 align="center">Visitor's Count :eyes:</h4>
 	
 [![MasterHead](https://as2.ftcdn.net/v2/jpg/03/38/02/25/1000_F_338022555_SWns8he64DZNfPqYI3rD3VCbhoJCMp5e.jpg)
