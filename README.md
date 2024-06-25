@@ -10,7 +10,7 @@
 <p align="center"><img src="https://profile-counter.glitch.me/{anilturkmen}/count.svg"/></p>
 <h4 align="center">Visitor's Count :eyes:</h4>
 	
-[![MasterHead](https://as2.ftcdn.net/v2/jpg/03/38/02/25/1000_F_338022555_SWns8he64DZNfPqYI3rD3VCbhoJCMp5e.jeapg)
+[![MasterHead](https://as2.ftcdn.net/v2/jpg/03/38/02/25/1000_F_338022555_SWns8he64DZNfPqYI3rD3VCbhoJCMp5e.jpg)
 
 
 - 🔭 I’m currently working on **Machine Learning and Deep Learning**
